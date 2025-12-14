@@ -3,7 +3,3 @@ pvenv/
 __pycache__/
 *.pyc
 *.pyo
-
-#Environment
-.artifacts
-.env 
